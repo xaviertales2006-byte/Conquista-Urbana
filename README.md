@@ -6,6 +6,10 @@
 
 um aplicativo de corrida cuja funcionalidade se baseia em conquistar territórios, o foco é em pessoas sedentárias e serve como uma rede social para outros atletas
 
+- o que é?
+- Onde se aplica?
+- Finalidade? Ou Justificativa?
+
 ## Colaboradores 
 - Guilherme Chaves,
 - Jõao Gabriel,
