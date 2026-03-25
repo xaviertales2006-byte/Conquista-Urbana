@@ -1,6 +1,6 @@
 # Nexus: Conquista-Urbana
 
-*Nome do projeto:* Nexus-Conquista Urbana
+**Nome do projeto:** Nexus-Conquista Urbana
 
 ## Descrição
 
@@ -13,7 +13,7 @@ um aplicativo de corrida cuja funcionalidade se baseia em conquistar território
 - Saylon Gariel e
 - Tales Xavier
 
-Recursos Utilizados: 
+## Recursos Utilizados
 Geolocalização Avançada: O sistema utiliza tecnologia de rastreamento para criar um campo de batalha digital sobre o espaço urbano real
 
 Algoritmo de Conexão: Emprega mecânicas para identificar "Nós de Conexão", onde as rotas dos membros da equipe devem se complementar para fortalecer o domínio
@@ -23,6 +23,8 @@ Interface de Gamificação: Transforma dados de movimento em conquistas territor
 Sistema de Recompensas (Fintech): Uma infraestrutura financeira que converte o desempenho físico em Nex-Points, integrando-se a sistemas de pagamento como o Pix e carteiras digitais
 
 Sistema de Esquadrões: O recurso central não foca no indivíduo, mas na formação de clãs para a conquista de áreas
+
+---
 
 Bônus de Proteção: Mecânica que utiliza o esforço coletivo para gerar camadas de defesa, dificultando a perda de território para competidores isolados
 
