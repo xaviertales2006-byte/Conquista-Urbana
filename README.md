@@ -1,10 +1,17 @@
-# Conquista-Urbana
+# Nexus: Conquista-Urbana
 
-Nome do projeto: Nexus-Conquista Urbana
+*Nome do projeto:* Nexus-Conquista Urbana
 
-Descrição: um aplicativo de corrida cuja funcionalidade se baseia em conquistar territórios, o foco é em pessoas sedentárias e serve como uma rede social para outros atletas
+## Descrição
 
-Colaboradores: Guilherme Chaves, Jõao Gabriel, Lincoln Figueiredo, Saylon Gariel e Tales Xavier
+um aplicativo de corrida cuja funcionalidade se baseia em conquistar territórios, o foco é em pessoas sedentárias e serve como uma rede social para outros atletas
+
+## Colaboradores 
+- Guilherme Chaves,
+- Jõao Gabriel,
+- Lincoln Figueiredo,
+- Saylon Gariel e
+- Tales Xavier
 
 Recursos Utilizados: 
 Geolocalização Avançada: O sistema utiliza tecnologia de rastreamento para criar um campo de batalha digital sobre o espaço urbano real
