@@ -14,7 +14,6 @@ um aplicativo de corrida cuja funcionalidade se baseia em conquistar território
 - Guilherme Chaves,
 - Jõao Gabriel,
 - Lincoln Figueiredo,
-- Saylon Gariel e
 - Tales Xavier
 
 ## Recursos Utilizados
