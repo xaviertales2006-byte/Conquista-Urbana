@@ -1,6 +1,6 @@
-# Nexus: Conquista-Urbana
+# Zone X
 
-**Nome do projeto:** Nexus-Conquista Urbana
+**Nome do projeto:** Zone-X
 
 ## Descrição
 
